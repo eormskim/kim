@@ -9,5 +9,3 @@ COLLATE='utf8_general_ci'
 ENGINE=InnoDB
 AUTO_INCREMENT=47
 ;
-
-gif 이미지들은 images 패키지에 삽입
